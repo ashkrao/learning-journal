@@ -1,0 +1,3 @@
+### Project week is going great so far. We hit our user stories, MVP and Stretch goals before noon on Monday. Each of us came up with 2-3 user stories and finalized on 10 of them for our MVP. We also have a bunch of stretch goals to work on once we are done with the MVP.
+
+## We worked on problem domain and wireframes in the afternoon on Monday. Aeone had some post-its that we used to make a flow chart of our problem domain and everyone contributed to design the work flow. We then drew our wireframes on 3 sheets of paper, one for each page and pitched our project proposal by end of day.         
