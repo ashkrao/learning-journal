@@ -1,0 +1,3 @@
+### I am very disappointed that my theme could not be incorporated into our project. It was mostly Aeone and David's call to not include the theme. I spent a lot of time designing the theme and picking other content which could have been avoided had I known we would not be using it. I feel it's good to be courteous to your team members but It would save a lot of time and energy for everyone if we can be clear about our views.
+
+### I am nervous about our presentation tomorrow because I haven't really presented in front of a audience before. I really hope I don't goof up tomorrow. Keeping my fingers crossed!  
