@@ -1,0 +1,5 @@
+## I feel relieved after completing the Final exam which was not as easy as expected. Making a list of all the questions on the previous quizzes and the Ungraded final quiz came in handy. Although some of the questions on the final were directly from the previous quizzes, most of them were tricky and I had to do a lot of research to get the correct answers. I used tools like JSFiddle, JSON validator and repl.it to test my answers. All in all this was not an easy exam but I believe we are expected to have the level of expertise to be able to move on to Code 401.
+
+## I wish there was a simpler way to retrieve the previous versions of portfolio to make the changes suggested by the Instructor team. I had no choice but to merge to master before deployment and now I have merge conflicts each time I pull up a old version and try to merge it back. I hope I can solve some issues and re-submit so I don't lose too many points. I am really worried that my portfolio assignment will affect my grades.
+
+## Project week is here and I am really excited to embark on another journey of learning with Jose, La and Rami.
